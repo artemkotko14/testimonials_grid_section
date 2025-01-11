@@ -61,5 +61,5 @@ In my future projects I want to focus on making responsive designs with CSS Grid
 
 ## Author
 
-- Github - [Artem Kotko](hhttps://github.com/artemkotko14)
+- Github - [Artem Kotko](https://github.com/artemkotko14)
 - Frontend Mentor - [@artemkotko14](https://www.frontendmentor.io/profile/artemkotko14)
