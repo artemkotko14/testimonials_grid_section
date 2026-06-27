@@ -57,7 +57,7 @@ In my future projects I want to focus on making responsive designs with CSS Grid
 
 ### Useful resources
 
-- [Grid Garden](cssgridgarden.com) - This great game helped me understand CSS Grid.
+- [Grid Garden](https://cssgridgarden.com/) - This great game helped me understand CSS Grid.
 
 ## Author
 
